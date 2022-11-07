@@ -1,2 +1,2 @@
-# tidytuesday
-A repository of submissions to Tidy Tuesday
+# Rtistry
+A repository of a few R-tistry attempts
